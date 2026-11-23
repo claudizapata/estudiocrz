@@ -2,6 +2,7 @@ App "estudiocrz"
 
 Vercel: 
 cuenta ingresa con: 2118crz@gmail.com
+sitio: https://vercel.com/crz29s-projects/estudiocrz
 
 w3forms:
 link para ingresar: https://app.web3forms.com/dashboard
