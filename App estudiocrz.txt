@@ -6,3 +6,13 @@ sitio: https://vercel.com/crz29s-projects/estudiocrz
 
 w3forms:
 link para ingresar: https://app.web3forms.com/dashboard
+
+Consulta de marcas:
+https://portaltramites.inpi.gob.ar/MarcasConsultas/
+
+
+
+git remote set-url origin https://github.com
+
+git remote -v
+
